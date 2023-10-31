@@ -1,4 +1,4 @@
-from sphinx_i18n_html_builder.html_i18n_builder import Standalonei18nHTMLBuilder
+from sphinx_i18n_html_builder.builder import Standalonei18nHTMLBuilder
 
 
 def setup(app):
