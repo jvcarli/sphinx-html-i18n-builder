@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "sphinx-html-i18n-builder"
+name = "sphinx-i18n-html-builder"
 version = "0.1.0"
 description = ""
 authors = ["Joao Vitor Carli Pereira <jvitor.carli@gmail.com>"]

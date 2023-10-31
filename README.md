@@ -1,3 +1,3 @@
-# sphinx-html-i18n-builder
+# sphinx-i18n-html-builder
 
 NOTE: **work in progress**
